@@ -17,6 +17,7 @@ Naive solution to Wine Quality prediction using Linear Regression
 <ol>5. Splitting data into data and target variables</ol>
 <ol>6. Splitting into train and test variables</ol>
 <ol>7. Fitting Linear Regression Model</ol>
-<ol>8. Checking Accuracy and errors</ol>
+<ol>8. Rounding off prediction in decimal form to integer</ol>
+<ol>9. Checking Accuracy and errors</ol>
 
 ![Predictions](https://github.com/sidvsukhi/Wine-Quality-Solution/blob/master/predictions.JPG)
